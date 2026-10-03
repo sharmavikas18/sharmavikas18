@@ -1,111 +1,123 @@
-<!-- Header Typing Animation -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Vikas+Sharma;First-Year+Computer+Science+Student;Building+Strong+Programming+Foundations;Learning+by+Building+Real+Things"
-  />
+<div align="center">
+
+# Vikas Sharma
+
+### Computer Science Student · Open Source Contributor · Builder · Vice President @ DevForge
+
+<p>
+  <a href="https://portfolio-vikas-sharma.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/sharmavikas18/">LinkedIn</a>
+  ·
+  <a href="https://github.com/sharmavikas18">GitHub</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharmavikas18&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/sharmavikas18?label=Followers&style=flat&color=blue" />
-</p>
+</div>
 
 ---
+
 ## About Me
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&pause=999999&color=C9D1D9&center=true&vCenter=true&width=900&lines=I+am+a+first-year+computer+science+student"
-  />
-</p>
+I'm **Vikas Sharma**, a Computer Science student at **Newton School of Technology**.
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&pause=999999&color=C9D1D9&center=true&vCenter=true&width=900&lines=Focused+on+strong+programming+fundamentals"
-  />
-</p>
+I enjoy building software, contributing to open source, and exploring how things work under the hood. I'm particularly interested in **full-stack development, backend systems, cloud, and developer tooling**.
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&pause=999999&color=C9D1D9&center=true&vCenter=true&width=900&lines=Learning+through+consistent+practice+and+experimentation"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=18&duration=2200&pause=999999&color=C9D1D9&center=true&vCenter=true&width=900&lines=Interested+in+software+development+and+problem-solving"
-  />
-</p>
+I'm also the **Vice President of DevForge**, a student-led developer community focused on software development, GitHub, open source, and hackathons.
 
 ---
 
-<p align="center">## Tech Stack</p>
+## What I Build
 
-<p align="center">### Programming Languages</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js" />
-</p>
-
-<p align="center">### Web Development</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-<p align="center">### Tools</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+- Full-stack web applications
+- Backend systems and APIs
+- Cloud-based applications
+- Developer tools and experiments
+- Open-source contributions
 
 ---
 
-## Currently Learning
-- Data Structures and Algorithms  
-- Advanced Python concepts  
-- Web development fundamentals  
-- Git and open-source workflows  
+## Featured Projects
+
+### RAASTA
+
+**Real-world Awareness, Action, Sequencing & Timing Assistant**
+
+An intelligent goal engine designed to turn real-world intent into dependency-aware and deadline-aware action plans.
+
+`Next.js` `TypeScript` `AWS` `Tailwind CSS`
+
+[Repository](https://github.com/sharmavikas18/raasta)
+
+### 7th Hour
+
+**1st Place — CodeDay Bangalore**
+
+A product built with a team of four during a 12-hour hackathon.
+
+[Repository](https://github.com/sharmavikas18)
+
+### Next Gen Care
+
+A full-stack project focused on building a practical digital healthcare experience.
 
 ---
 
-## GitHub Statistics
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sharmavikas18&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sharmavikas18&theme=tokyonight"
-    height="165"
-  />
-</p>
+## Open Source
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavikas18&layout=compact&theme=tokyonight"
-  />
-</p>
+I enjoy contributing to projects outside my own codebase and learning from real-world repositories.
+
+Currently contributing to and exploring projects across:
+
+**FOSSASIA · Apache · freeCodeCamp · FOSSology**
+
+Some of my contributions include work on **BadgeMagic, Apache Superset, freeCodeCamp, FOSSology, Visdom, and VEditor**.
 
 ---
 
-## Contribution Activity
-<p align="center">
-  <img
-    src="https://github.com/sharmavikas18/sharmavikas18/blob/output/github-contribution-grid-snake.svg"
-  />
-</p>
+## Tech Stack
+
+**Languages**
+
+Python · JavaScript · TypeScript · C
+
+**Frontend**
+
+React · Next.js · HTML · CSS · Tailwind CSS
+
+**Backend**
+
+FastAPI · Node.js · REST APIs
+
+**Databases**
+
+MySQL · MongoDB · Supabase · Firebase
+
+**Cloud & Tools**
+
+AWS · Git · GitHub · Linux · Vercel
 
 ---
 
-## Personal Principle
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=Consistency+beats+motivation+when+motivation+fades"
-  />
-</p>
+## Currently Exploring
+
+Backend architecture · Cloud · AI · System Design · Open Source
 
 ---
 
-## Contact
-<p align="center">
-  <a href="https://github.com/sharmavikas18">GitHub</a> |
-  <a href="mailto:2102508823@svyasa-sas.edu.in">Email</a>
-</p>
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharmavikas18&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavikas18&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Build · Contribute · Learn · Repeat
+
+</div>
