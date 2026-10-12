@@ -22,7 +22,7 @@ I'm **Vikas Sharma**, a Computer Science student at **Newton School of Technolog
 
 I enjoy building software, contributing to open source, and exploring how things work under the hood. I'm particularly interested in **full-stack development, backend systems, cloud, and developer tooling**.
 
-I'm also the **Vice President of DevForge**, a student-led developer community focused on software development, GitHub, open source, and hackathons.
+
 
 ---
 
