@@ -2,7 +2,7 @@
 
 # Vikas Sharma
 
-### Computer Science Student · Open Source Contributor · Builder · Vice President @ DevForge
+### Computer Science Student · Open Source Contributor · Builder 
 
 <p>
   <a href="https://portfolio-vikas-sharma.vercel.app/">Portfolio</a>
