@@ -5,7 +5,7 @@
 ### Computer Science Student · Open Source Contributor · Builder 
 
 <p>
-  <a href="https://portfolio-vikas-sharma.vercel.app/">Portfolio</a>
+  <a href="https://vikas-sharma-portfolio.vercel.app/">Portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/sharmavikas18/">LinkedIn</a>
   ·
